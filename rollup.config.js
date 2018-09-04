@@ -19,7 +19,6 @@ const base = {
     'lodash/mapValues',
     'lodash/snakeCase',
     'lodash/camelCase',
-    'toposort',
     'fn-name',
     'synchronous-promise',
     'property-expr',
